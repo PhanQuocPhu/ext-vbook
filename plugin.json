@@ -181,9 +181,9 @@
             "author": "B",
             "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/khotruyenchu/plugin.zip",
             "version": 3,
-            "source": "https://khotruyenchu.online/",
+            "source": "https://khotruyenchu.space/",
             "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/khotruyenchu/icon.png",
-            "description": "Đọc truyện trên khotruyenchu.online",
+            "description": "Đọc truyện trên khotruyenchu.space",
             "type": "novel",
             "locale": "vi_VN"
         },

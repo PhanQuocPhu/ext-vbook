@@ -3,9 +3,9 @@
     "name": "Kho Truyện Chữ",
     "author": "B",
     "version": 3,
-    "source": "https://khotruyenchu.online/",
-    "regexp": "khotruyenchu\\.(sbs|click|online)/truyen/.*",
-    "description": "Đọc truyện trên khotruyenchu.online",
+    "source": "https://khotruyenchu.space/",
+    "regexp": "khotruyenchu\\.(space|sbs|click|online)/truyen/.*",
+    "description": "Đọc truyện trên khotruyenchu.space",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"

@@ -1,1 +1,1 @@
-var BASE_URL = "https://khotruyenchu.online";
+var BASE_URL = "https://khotruyenchu.space";

@@ -33,7 +33,7 @@ function execute(url) {
                 }
 
                 // Remove small elements containing site name
-                if (el.tagName() !== 'p' && (text.indexOf("khotruyenchu") >= 0 || text.indexOf("sbs") >= 0) && text.length < 200) {
+                if (el.tagName() !== 'p' && (text.indexOf("khotruyenchu") >= 0 || text.indexOf("sbs") >= 0 || text.indexOf("space") >= 0) && text.length < 200) {
                     el.remove();
                 }
                 
@@ -64,7 +64,7 @@ function cleanContent(html) {
         .trim();
     
     // Final text-based cleanup
-    res = res.replace(/Bạn đang đọc truyện tại khotruyenchu\.obs/gi, "");
+    res = res.replace(/Bạn đang đọc truyện tại khotruyenchu\.(space|sbs|obs|online|click)/gi, "");
     res = res.replace(/Truy cập khotruyenchu\.*? để đọc truyện không quảng cáo rác/gi, "");
     
     return res;
