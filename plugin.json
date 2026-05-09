@@ -8,7 +8,7 @@
             "name": "123ds",
             "author": "B",
             "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/123ds/plugin.zip",
-            "version": 4,
+            "version": 5,
             "source": "https://www.123duw.com",
             "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/123ds/icon.png",
             "description": "Đọc truyện trên trang https://www.123duw.com",
