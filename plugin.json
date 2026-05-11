@@ -367,6 +367,17 @@
             "locale": "vi_VN"
         },
         {
+            "name": "TruyenDich.AI",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/truyendichai/plugin.zip",
+            "version": 1,
+            "source": "https://truyendich.ai",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/truyendichai/icon.png",
+            "description": "Đọc truyện trên TruyenDich.AI",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
             "name": "truyenchuth",
             "author": "B",
             "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/extensions/truyenchuth/plugin.zip",
